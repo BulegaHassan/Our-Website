@@ -3,4 +3,4 @@
 ### Has nice background
 #### Languages
 - HTML5
-- CSS3
+- CSS3(inline)
